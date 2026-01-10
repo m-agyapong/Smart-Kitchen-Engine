@@ -1,0 +1,38 @@
+
+
+in the app:
+- login/signup, stores a session
+- getting to know the person, such as their age, occupation (optional),  what they eat, what they want to eat, their energy levels (from sleep/during the day)
+
+- you add, remove, modify what you normally eat
+- you add, remove, modify what you want to eat
+- you can archive what you eat
+- it recommends to change what you eat commonly to something else different that you want to eat depending on time, energy, and other stuff to do in the day
+- helps you to avoid eating anything bad for you / food habits
+- whatever you buy, you store the expiration date and it tracks how long you can keep it before throwing away
+- also as an ingrident getting close to expiring, it notifies you to use it and shows the foods to make with it
+
+- maybe include an api to suggest foods idk
+
+in the app's database, it stores:
+
+- Table 1 (user)
+    userID
+    name
+    age (optional)
+    username
+    password
+    energy levels
+    activities
+
+    
+
+- Table 2 (meal)
+    
+    user's meals that they normally eat
+    user's meals that they desire to eat
+    ingredients they brought
+
+
+
+then you join the tables to find out whos who
