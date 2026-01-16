@@ -1,0 +1,9 @@
+span.navigation {
+    float: right;
+}
+
+div.banner {
+    color: white;
+    background-color: black;
+    font-family: calibri;
+}
