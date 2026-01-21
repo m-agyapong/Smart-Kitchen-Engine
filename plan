@@ -28,7 +28,6 @@ in the app's database, it stores:
     
 
 - Table 2 (meal)
-    
     user's meals that they normally eat
     user's meals that they desire to eat
     ingredients they brought
