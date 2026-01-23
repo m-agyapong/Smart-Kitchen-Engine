@@ -6,8 +6,8 @@ div.banner {
 
 
 
-span.navigation {
-    float: right;
+div.navigation {
+    text-align: center;
 }
 
 div.banner {
